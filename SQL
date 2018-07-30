@@ -1,0 +1,5 @@
+﻿CREATE TABLE Produto(
+    codigo INT PRIMARY KEY,
+    descricao VARCHAR(50),
+    preco NUMERIC(5,2)
+)
